@@ -1,6 +1,6 @@
 {
-  "name": "vitafy/bitbucket-commenter",
-  "description": "Bitbucket commenter",
+  "name": "vitafy/bitbucket-api",
+  "description": "Bitbucket api",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
