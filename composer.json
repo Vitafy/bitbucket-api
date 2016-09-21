@@ -1,0 +1,21 @@
+{
+  "name": "vitafy/bitbucket-commenter",
+  "description": "Bitbucket commenter",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vitaliy Stepanyuk",
+      "email": "v.stepanyuk@vitafy.de"
+    }
+  ],
+  "require": {
+    "php": ">=7",
+    "guzzlehttp/guzzle": ">=6.0 <7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bitbucket\\": "src/"
+    }
+  }
+}
